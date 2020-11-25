@@ -1,6 +1,14 @@
 html {
     height: 100%;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    cursor: default;
+
+    /* Disable user select highlight */
+    user-select: none; /* supported by Chrome and Opera */
+    -webkit-user-select: none; /* Safari */
+    -khtml-user-select: none; /* Konqueror HTML */
+    -moz-user-select: none; /* Firefox */
+    -ms-user-select: none; /* Internet Explorer/Edge */
 }
 
 body {
@@ -18,13 +26,13 @@ body {
 
 .header {
     width: 100%;
-    height: 150px;
+    height: 80%;
     background-color: rgba(255, 0 , 0,0.5);
 }
 
 .header #logo {
     background-color: white;
-    height: 100px;
+    height: calc(100% - 50px);
 }
 
 .header #nav {
@@ -33,6 +41,7 @@ body {
     display: grid;
     grid-template-columns: 2fr 1fr 1fr 1fr 2fr;
     grid-template-rows: 1fr;
+    grid-column-gap: 5px;
 }
 
 .header #nav div {
@@ -54,12 +63,14 @@ body {
 }
 
 .header #nav div p {
-    width: 50px;
+    width: 50%;
     transition: 700ms;
     border-bottom: 1px solid transparent;
     text-align: center;
     margin-left: auto;
     margin-right: auto;
+    text-transform: uppercase;
+    letter-spacing: 3px;
 }
 
 #te:hover #re {border-color: #c59d40;}#me:hover #ee {border-color: #c59d40;}#we:hover #ds {border-color: #c59d40;}
@@ -73,9 +84,26 @@ body {
 */
 
 .main {
-    background-color: rgba(255, 245, 189, 0.562);
+    background-color: rgba(250, 243, 207, 0.562);
     width: 100%;
     height: calc(100% - 225px);
+}
+
+.main .t1 {
+    font-size: 30px;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    color: #c59d40;
+    padding-top: 7vh;
+    text-align: center;
+}
+
+.main .p1 {
+    padding-top: 20px;
+    width: 65%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 
