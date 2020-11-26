@@ -75,7 +75,7 @@ body {
 }
 
 .header #nav div p {
-    width: 50%;
+    display: inline-block;
     transition: 700ms;
     border-bottom: 1px solid transparent;
     text-align: center;
@@ -83,6 +83,8 @@ body {
     margin-right: auto;
     text-transform: uppercase;
     letter-spacing: 3px;
+    padding-right: 3px;
+    padding-left: 3px;
 }
 
 #mat:hover #mat-p {border-color: #c59d40;}#dryck:hover #dryck-p {border-color: #c59d40;}#boka:hover #boka-p {border-color: #c59d40;}#om:hover #om-p {border-color: #c59d40;}
@@ -165,9 +167,33 @@ body {
 }
 
 .footer .inf > div p.ttl {
-    width: 22%;
+    display: inline-block;
     color: #ceb06c;
     border-bottom: 1px solid #ceb06c;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+
+.footer .inf > div div.txt {
+    font-size: 13px;
+    display: block;
+}
+
+.footer .inf > div div.txt p {
+    user-select: text; /* supported by Chrome and Opera */
+    -webkit-user-select: text; /* Safari */
+    -khtml-user-select: text; /* Konqueror HTML */
+    -moz-user-select: text; /* Firefox */
+    -ms-user-select: text; /* Internet Explorer/Edge */
+    cursor: text;
+}
+
+.footer .inf > div div.txt p.tel {
+    margin-top: 0px;
+}
+
+.footer .inf > div div.txt p.epost {
+    margin-top: -8px;
 }
 
 .footer .inf > div:nth-child(1) { grid-column: 2 / 3; } .footer .inf > div:nth-child(2) { grid-column: 3 / 4; }
