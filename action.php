@@ -12,7 +12,7 @@ if(!isset($_POST['form_submitted'])) {
     #printCodeTime($_SESSION['totalTime']);
     switch ($_POST['form_submitted']) {
         case '1':
-            #mat
+            header('dev2.html');
             break;
         case '2':
             #dryck
