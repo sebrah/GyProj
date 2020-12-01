@@ -4,7 +4,7 @@ include "includes\IncludeHandling.php";
 
 session_start();
 
-$timeInitiated = time();
+$timeInitiated = microtime(true);
 $_SESSION["startTime"] = $timeInitiated;
 
 setcookie("toggleDelCookie", "", time()-1000, "/");

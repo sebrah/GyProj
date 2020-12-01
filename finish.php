@@ -24,7 +24,7 @@ if(!isset($_SESSION['totalTime'])) {
 </head>
 <body>
     <h1><?php echo $_SESSION['randStr']; ?></h1>
-    <?php if(!ipExists($_SERVER['REMOTE_ADDR']) || ipExists($_SERVER['REMOTE_ADDR']) == 2) echo $totalTime . " sekunder tog det tills du tryckte..."; ?>
+    <?php if(!ipExists($_SERVER['REMOTE_ADDR']) || ipExists($_SERVER['REMOTE_ADDR']) == 2) echo $totalTime . " millisekunder tog det tills du tryckte..."; ?>
     <div class="footer">
         <p><?php echo $footer . " Session start-time: " . $_SESSION["startTime"]; ?></p>
     </div>
