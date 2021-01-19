@@ -1,5 +1,5 @@
 #DirectoryIndex index.php
-DirectoryIndex .php
+DirectoryIndex /directives/.php
 
 RewriteEngine on
 RewriteCond %{THE_REQUEST} /([^.]+)\.php [NC]
