@@ -1,0 +1,37 @@
+button, button:active {
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    justify-self: center;
+    align-self: center;
+    width: 150px;
+    background-color: transparent;
+    border: 1px solid black;
+    outline: none;
+    cursor: pointer;
+    border-radius: 15px;;
+    margin-top: 20px;
+}
+
+form button h6 {
+    margin: 0;
+    display: inline-block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    padding-right: 3px;
+    padding-left: 3px;
+    font-size: 18px;
+    font-weight: 100;
+}
+
+.addr {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(243, 243, 243);
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 20px;
+}
