@@ -1,0 +1,52 @@
+table {
+    margin-top: 10%;
+    margin: 70px auto 0px auto;
+}
+
+table, tr, td {
+    border: 1px black solid;
+    border-collapse: collapse;
+}
+
+td {
+    width: 100px;
+    height: 50px;
+    text-align: center;
+    cursor: not-allowed;
+}
+
+form {
+    position: relative;
+    height: 100%;
+    width: 100%;
+}
+
+button, button:active {
+    position: absolute;
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    justify-self: center;
+    align-self: center;
+    background-color: transparent;
+    outline: none;
+    cursor: pointer;
+    border: none;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+}
+
+tr:nth-child(1) > td {
+    height: inherit;
+    cursor: default;
+}
+
+tr td:nth-child(1) {
+    width: inherit;
+    cursor: default;
+}
