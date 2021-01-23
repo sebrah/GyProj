@@ -2,6 +2,10 @@ html {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
+.menus {
+    margin-top: 100px;
+}
+
 .menus div {
     border: 1px solid black;
     display: inline-block;
@@ -12,6 +16,10 @@ html {
     height: 150px;
     cursor: pointer;
     border-radius: 5px;
+}
+
+#middag {
+    margin-left: 50px;
 }
 
 .menus div:hover {

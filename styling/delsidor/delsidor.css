@@ -28,7 +28,7 @@ body {
 
 
 .main {
-    min-height: calc(100% - 170px - 50px);
+    min-height: calc(100% - 50px - 170px);
     width: 100%;
     background: rgb(250,243,207);
     background: linear-gradient(0deg, rgba(250,243,207,0.8799894957983193) 0%, rgba(250,243,207,0.56) 100%);
@@ -36,14 +36,14 @@ body {
 }
 
 .main .content {
-    position: absolute;
+    position: relative;
     display: block;
     margin-right: auto;
     margin-left: auto;
-    min-height: 100%;
     width: 70%;
     background-color: white;
-    left: calc((100% - 70%) / 2);
+    height: 100%;
+    /*left: calc((100% - 70%) / 2);*/
 }
 
 .cont {
@@ -78,6 +78,7 @@ body {
     width: 100%;
     background-color: rgba(0, 0, 0, 0.5);
     height: 170px;
+    position: relative;
 }
 
 .footer .inf {
