@@ -35,6 +35,10 @@ body {
     position: relative;
 }
 
+.main-fix {
+    height: calc(100% - 220px)
+}
+
 .main .content {
     position: relative;
     display: block;

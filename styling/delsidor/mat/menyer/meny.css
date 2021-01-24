@@ -21,3 +21,19 @@
 .pris {
     font-size: 13px;
 }
+
+button, button:active {
+    position: relative;
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    justify-self: center;
+    align-self: center;
+    background-color: transparent;
+    outline: none;
+    cursor: pointer;
+    border: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+}
