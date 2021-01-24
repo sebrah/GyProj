@@ -1,3 +1,16 @@
+<?php 
+
+include "includes/Vars.php";
+include "code.php";
+
+session_start();
+
+checkActive();
+
+logger("visited index");
+
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -9,7 +22,7 @@
     <link rel="stylesheet" href="styling/scrollbar.css">
     <link rel="stylesheet" href="styling/index-style.css">
     <script type="text/javascript" src="scripts/dev.js" defer></script>
-    <title>Dev Alpha 1.1</title>
+    <title></title>
 </head>
 <body>
     <div class="header">

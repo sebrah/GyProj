@@ -1,3 +1,16 @@
+<?php 
+
+include "includes/Vars.php";
+include "code.php";
+
+session_start();
+
+checkActive();
+
+logger("visited mat");
+
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>

@@ -2,7 +2,7 @@
 
 try {
     document.getElementById("mat").addEventListener("click", function() {
-        window.location.href = "mat.html";
+        window.location.href = "mat";
     });
 }
 catch (error) {
@@ -11,7 +11,7 @@ catch (error) {
 
 try {
     document.getElementById("om").addEventListener("click", function() {
-        window.location.href = "om-oss.html";
+        window.location.href = "om-oss.php";
     });
 }
 catch (error) {
@@ -20,7 +20,7 @@ catch (error) {
 
 try {
     document.getElementById("boka").addEventListener("click", function() {
-        window.location.href = "boka.html";
+        window.location.href = "boka.php";
     });
 }
 catch (error) {
@@ -31,13 +31,13 @@ try {
     var title = document.getElementById("title");
     if(document.getElementById("m")) {
         document.getElementById("title").addEventListener("click", function() {
-            window.location.href = "../index.html";
+            window.location.href = "../index.php?iSu8M";
         });
         console.log(0);
     }
     else {
         document.getElementById("title").addEventListener("click", function() {
-            window.location.href = "index.html";
+            window.location.href = "index.php?iSu8M";
         });
         console.log(1);
     }
@@ -48,10 +48,10 @@ catch (error) {
 
 try {
     document.getElementById("lunch").addEventListener("click", function() {
-        window.location.href = "mat/lunch.html";
+        window.location.href = "mat-meny/lunch.php";
     });
     document.getElementById("middag").addEventListener("click", function() {
-        window.location.href = "mat/middag.html";
+        window.location.href = "mat-meny/middag.php";
     });
 }
 catch (error) {

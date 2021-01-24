@@ -1,3 +1,16 @@
+<?php 
+
+include "includes/Vars.php";
+include "code.php";
+
+session_start();
+
+checkActive();
+
+logger("visited om oss");
+
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>

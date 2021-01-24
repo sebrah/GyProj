@@ -26,7 +26,7 @@ function printCodeTime($ftime) {
     $ip = $_SERVER['REMOTE_ADDR'];
     $time = date("H:i:s");
 
-    fwrite($file, "[" . $time . "] @ " . $ip . " -> " . $_SESSION['randStr'] . " -> t: " . $_SESSION['totalTime'] . "s\n");
+    fwrite($file, "[" . $time . "] @ " . $ip . " -> " . $_SESSION['randStr'] . " -> t: " . $_SESSION['totalTime'] . "ms\n");
 }
 
 function ipExists($ip) {

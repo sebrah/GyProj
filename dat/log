@@ -1,0 +1,66 @@
+[17:10:13] @ 192.168.86.97 -> 07aae -> started
+[17:10:55] @ 192.168.86.97 -> b1a95 -> started
+[17:14:45] @ 192.168.86.97 -> 3c5d4 -> started
+[17:14:52] @ 192.168.86.97 -> 152b7 -> started
+[17:15:19] @ 192.168.86.97 -> 900bd -> started
+[17:18:09] @ 192.168.86.97 -> 84933 -> started
+[] @  ->  -> visited index
+[17:22:36] @  ->  -> visited index
+[17:23:20] @ 192.168.86.97 -> 148f7 -> started
+[17:23:20] @  ->  -> visited index
+[17:24:49] @ 192.168.86.97 -> 148f7 -> visited index
+[] Session with ip 192.168.86.97 has already visited the server! Deporting!
+[17:27:45] @ 192.168.86.97 -> 148f7 -> visited index
+[] Session with ip 192.168.86.97 has already visited the server! Deporting!
+[17:27:49] @ 192.168.86.97 -> 148f7 -> visited index
+[17:28:44] @ 192.168.86.97 -> 148f7 -> visited index
+[] Session with ip 192.168.86.97 has already visited the server! Not initializing time and other variables!
+[17:28:47] @ 192.168.86.97 -> 148f7 -> visited index
+[17:29:05] Session with ip 192.168.86.97 has already visited the server! Not initializing time and other variables!
+[17:29:05] @ 192.168.86.97 -> 148f7 -> visited index
+[17:29:20] @ 192.168.86.97 -> 148f7 -> visited index
+[17:29:22] @ 192.168.86.97 -> 148f7 -> visited index
+[17:29:23] @ 192.168.86.97 -> 148f7 -> visited index
+[17:29:23] @ 192.168.86.97 -> 148f7 -> visited index
+[17:29:24] @ 192.168.86.97 -> 148f7 -> visited index
+[17:29:24] @ 192.168.86.97 -> 148f7 -> visited index
+[17:29:25] @ 192.168.86.97 -> 148f7 -> visited index
+[17:29:25] @ 192.168.86.97 -> 148f7 -> visited index
+[17:43:39] @  ->  -> visited index
+[19:17:27] @  ->  -> visited index
+[19:17:28] @  ->  -> visited index
+[19:17:30] @  ->  -> visited index
+[19:43:08] @  ->  -> visited index
+[19:43:22] Session with ip 192.168.86.23 got initialized and allocated the code f5dfc
+[19:43:22] @ 192.168.86.23 -> f5dfc -> visited index
+[19:44:56] @ 192.168.86.23 -> f5dfc -> visited index
+[19:44:58] @ 192.168.86.23 -> f5dfc -> visited boka
+[19:45:05] @ 192.168.86.23 -> f5dfc -> visited om oss
+[19:45:10] @ 192.168.86.23 -> f5dfc -> visited mat
+[19:47:55] @ 192.168.86.23 -> f5dfc -> visited lunch
+[19:47:58] @ 192.168.86.23 -> f5dfc -> visited index
+[19:48:03] @ 192.168.86.23 -> f5dfc -> visited boka
+[19:48:05] @ 192.168.86.23 -> f5dfc -> visited index
+[19:48:08] @ 192.168.86.23 -> f5dfc -> visited om oss
+[19:48:13] @ 192.168.86.23 -> f5dfc -> visited index
+[19:48:16] @ 192.168.86.23 -> f5dfc -> visited mat
+[19:48:16] @ 192.168.86.23 -> f5dfc -> visited lunch
+[20:01:36] Session with ip 192.168.86.97 has already visited the server! Not initializing time and other variables!
+[20:01:36] @ 192.168.86.97 -> 148f7 -> visited index
+[20:01:38] @ 192.168.86.97 -> 148f7 -> visited mat
+[20:01:40] Session with ip 192.168.86.97 has already visited the server! Not initializing time and other variables!
+[20:01:40] @ 192.168.86.97 -> 148f7 -> visited index
+[20:09:28] Session with ip 192.168.86.97 has already visited the server! Not initializing time and other variables!
+[20:09:28] @ 192.168.86.97 -> 148f7 -> visited index
+[20:09:34] Session with ip 192.168.86.97 has already visited the server! Not initializing time and other variables!
+[20:09:34] @ 192.168.86.97 -> 148f7 -> visited index
+[20:10:20] Session with ip 192.168.86.97 has already visited the server! Not initializing time and other variables!
+[20:10:20] @  ->  -> visited index
+[20:14:24] @ 192.168.86.97 -> N/A -> visited index
+[20:14:34] @ 192.168.86.97 -> N/A -> visited mat
+[20:14:36] @  ->  -> visited lunch
+[20:15:36] @ 192.168.86.97 -> N/A -> visited index
+[20:15:38] @ 192.168.86.97 -> N/A -> visited boka
+[20:15:40] @ 192.168.86.97 -> N/A -> visited index
+[20:15:41] @ 192.168.86.97 -> N/A -> visited mat
+[20:15:41] @ 192.168.86.97 -> N/A -> visited index
