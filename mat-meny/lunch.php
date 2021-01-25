@@ -75,6 +75,11 @@ checkActive();
 
 logger("visited lunch");
 
+if (!$_SESSION['stateMat']) {
+    $display1 = "";
+} else {
+    $display1 = "background-color:lightgreen";
+}
 ?>
 
 <!DOCTYPE html>
@@ -105,8 +110,8 @@ logger("visited lunch");
                     <div class="mat"><span class="dag">Måndag</span> Ungsraggis med rårörda lingon <span class="pris">145</span></div>
                     <div class="mat"><span class="dag">Tisdag</span> Pannbiff med löksås <span class="pris">145</span></div>
                     <div class="mat"><span class="dag">Onsdag</span> Kycklingjärpar i gräddsås med pressgurka <span class="pris">145</span></div>
-                    <div class="mat">
-                        <form action="action" method="post" title="Tryck för att välja!">
+                    <div class="mat" style="<?php echo $display1 ?>">
+                        <form action="../action" method="post" title="Tryck för att välja!">
                             <input type="hidden" name="form_submitted" value="hD0kb" />
                             <button type="submit" value="Submit"><span class="dag">Torsdag</span> Pytt i panna <span class="pris">145</span></button>
                         </form>

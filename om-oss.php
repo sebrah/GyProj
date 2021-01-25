@@ -9,6 +9,12 @@ checkActive();
 
 logger("visited om oss");
 
+if ($_SESSION['stateOm']) {
+    $display1 = "";
+} else {
+    $display1 = "display:none";
+}
+
 ?>
 
 <!DOCTYPE html>
@@ -38,7 +44,7 @@ logger("visited om oss");
                     <input type="hidden" name="form_submitted" value="7xxgy" />
                     <button type="submit" value="Submit"><h6>Hitta hit</h6></button>
                 </form>
-                <div class="addr" style="display:none">Furikvägen 63B</br>Stockholm</div>
+                <div class="addr" style="<?php echo $display1 ?>">Furikvägen 63B</br>Stockholm</div>
             </div>
         </div>
     </div>

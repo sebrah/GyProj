@@ -9,6 +9,14 @@ checkActive();
 
 logger("visited boka");
 
+if ($_SESSION['stateBoka']) {
+    $display0 = "display:none";
+    $display1 = "";
+} else {
+    $display0 = "";
+    $display1 = "display:none";
+}
+
 ?>
 
 <!DOCTYPE html>
@@ -33,8 +41,9 @@ logger("visited boka");
         <div class="content">
             <div class="cont">
                 <div class="cont-title">Boka Bord</div>
+                <div class="res" style="<?php echo $display1; ?>">Du har bokat! Du kan nu fortsätta på sidan...</div>
             </div>
-            <div class="cont-tbl">
+            <div class="cont-tbl" style="<?php echo $display0; ?>">
                 <table>
                     <tr class="dag">
                         <td>Tid</td>

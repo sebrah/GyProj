@@ -13,6 +13,10 @@ function start() {
 
     if (!ipExists($ip)) {
         $_SESSION['randStr'] = $randStr;
+        $_SESSION['stateBoka'] = false;
+        $_SESSION['stateMat'] = false;
+        $_SESSION['stateOm'] = false;
+        $_SESSION['fin'] = false;
 
         $_SESSION['ip'] = $ip;
         $time = date("H:i:s");
@@ -22,7 +26,7 @@ function start() {
         saveIP($ip);
         
         $timeInitiated = microtime(true);
-        $_SESSION["startTime"] = $timeInitiated;
+        $_SESSION['startTime'] = $timeInitiated;
     }
     else {
         fwrite($file, "[" . date("H:i:s") . "] Session with ip " . $ip . " has already visited the server! Not initializing time and other variables!\n");
@@ -32,9 +36,7 @@ function start() {
 function ipExists($ip) {
     $file = fopen("dat\ip_log", "r");
     
-    if ($ip == $myIp) {
-        return 2;
-    } else if (!strpos(fread($file, filesize("dat\ip_log")), $ip)) {
+    if (!strpos(fread($file, filesize("dat\ip_log")), $ip)) {
         return false;
     } else {
         return true;
@@ -43,7 +45,7 @@ function ipExists($ip) {
 
 function saveIP($ip) {
 
-    if (ipExists($ip) == 2) {
+    if ("192.168.86.97") {
         return;
     } else if (ipExists($ip)) {
         echo "you have visited before";

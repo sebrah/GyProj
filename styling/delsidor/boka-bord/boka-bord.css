@@ -50,3 +50,9 @@ tr td:nth-child(1) {
     width: inherit;
     cursor: default;
 }
+
+.res {
+    margin-top: 100px;
+    font-size: 20px;
+
+}

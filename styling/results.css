@@ -1,0 +1,40 @@
+body {
+    margin: 0px;
+    font-family: Helvetica, sans-serif;
+}
+
+.done {
+    width: 80%;
+    margin: 0 auto 0 auto;
+    text-align: center;
+}
+
+.t1 {
+    margin-top: 200px;
+    font-size: 25px;
+}
+
+.t2 {
+    margin-top: 25px;
+    font-size: 20px;
+}
+
+.code {
+    display: inline-block;
+    margin-top: 50px;
+}
+
+.code > * {
+    display: block;
+}
+
+textarea {
+    font-size: 40px;
+    width: 200px;
+    text-align: center;
+}
+
+button {
+    margin: 20px auto 0 auto;
+    font-size: 25px;
+}

@@ -1,66 +1,50 @@
-[17:10:13] @ 192.168.86.97 -> 07aae -> started
-[17:10:55] @ 192.168.86.97 -> b1a95 -> started
-[17:14:45] @ 192.168.86.97 -> 3c5d4 -> started
-[17:14:52] @ 192.168.86.97 -> 152b7 -> started
-[17:15:19] @ 192.168.86.97 -> 900bd -> started
-[17:18:09] @ 192.168.86.97 -> 84933 -> started
-[] @  ->  -> visited index
-[17:22:36] @  ->  -> visited index
-[17:23:20] @ 192.168.86.97 -> 148f7 -> started
-[17:23:20] @  ->  -> visited index
-[17:24:49] @ 192.168.86.97 -> 148f7 -> visited index
-[] Session with ip 192.168.86.97 has already visited the server! Deporting!
-[17:27:45] @ 192.168.86.97 -> 148f7 -> visited index
-[] Session with ip 192.168.86.97 has already visited the server! Deporting!
-[17:27:49] @ 192.168.86.97 -> 148f7 -> visited index
-[17:28:44] @ 192.168.86.97 -> 148f7 -> visited index
-[] Session with ip 192.168.86.97 has already visited the server! Not initializing time and other variables!
-[17:28:47] @ 192.168.86.97 -> 148f7 -> visited index
-[17:29:05] Session with ip 192.168.86.97 has already visited the server! Not initializing time and other variables!
-[17:29:05] @ 192.168.86.97 -> 148f7 -> visited index
-[17:29:20] @ 192.168.86.97 -> 148f7 -> visited index
-[17:29:22] @ 192.168.86.97 -> 148f7 -> visited index
-[17:29:23] @ 192.168.86.97 -> 148f7 -> visited index
-[17:29:23] @ 192.168.86.97 -> 148f7 -> visited index
-[17:29:24] @ 192.168.86.97 -> 148f7 -> visited index
-[17:29:24] @ 192.168.86.97 -> 148f7 -> visited index
-[17:29:25] @ 192.168.86.97 -> 148f7 -> visited index
-[17:29:25] @ 192.168.86.97 -> 148f7 -> visited index
-[17:43:39] @  ->  -> visited index
-[19:17:27] @  ->  -> visited index
-[19:17:28] @  ->  -> visited index
-[19:17:30] @  ->  -> visited index
-[19:43:08] @  ->  -> visited index
-[19:43:22] Session with ip 192.168.86.23 got initialized and allocated the code f5dfc
-[19:43:22] @ 192.168.86.23 -> f5dfc -> visited index
-[19:44:56] @ 192.168.86.23 -> f5dfc -> visited index
-[19:44:58] @ 192.168.86.23 -> f5dfc -> visited boka
-[19:45:05] @ 192.168.86.23 -> f5dfc -> visited om oss
-[19:45:10] @ 192.168.86.23 -> f5dfc -> visited mat
-[19:47:55] @ 192.168.86.23 -> f5dfc -> visited lunch
-[19:47:58] @ 192.168.86.23 -> f5dfc -> visited index
-[19:48:03] @ 192.168.86.23 -> f5dfc -> visited boka
-[19:48:05] @ 192.168.86.23 -> f5dfc -> visited index
-[19:48:08] @ 192.168.86.23 -> f5dfc -> visited om oss
-[19:48:13] @ 192.168.86.23 -> f5dfc -> visited index
-[19:48:16] @ 192.168.86.23 -> f5dfc -> visited mat
-[19:48:16] @ 192.168.86.23 -> f5dfc -> visited lunch
-[20:01:36] Session with ip 192.168.86.97 has already visited the server! Not initializing time and other variables!
-[20:01:36] @ 192.168.86.97 -> 148f7 -> visited index
-[20:01:38] @ 192.168.86.97 -> 148f7 -> visited mat
-[20:01:40] Session with ip 192.168.86.97 has already visited the server! Not initializing time and other variables!
-[20:01:40] @ 192.168.86.97 -> 148f7 -> visited index
-[20:09:28] Session with ip 192.168.86.97 has already visited the server! Not initializing time and other variables!
-[20:09:28] @ 192.168.86.97 -> 148f7 -> visited index
-[20:09:34] Session with ip 192.168.86.97 has already visited the server! Not initializing time and other variables!
-[20:09:34] @ 192.168.86.97 -> 148f7 -> visited index
-[20:10:20] Session with ip 192.168.86.97 has already visited the server! Not initializing time and other variables!
-[20:10:20] @  ->  -> visited index
-[20:14:24] @ 192.168.86.97 -> N/A -> visited index
-[20:14:34] @ 192.168.86.97 -> N/A -> visited mat
-[20:14:36] @  ->  -> visited lunch
-[20:15:36] @ 192.168.86.97 -> N/A -> visited index
-[20:15:38] @ 192.168.86.97 -> N/A -> visited boka
-[20:15:40] @ 192.168.86.97 -> N/A -> visited index
-[20:15:41] @ 192.168.86.97 -> N/A -> visited mat
-[20:15:41] @ 192.168.86.97 -> N/A -> visited index
+[22:19:21] Session with ip 192.168.86.97 got initialized and allocated the code 90668
+[22:19:21] @ 192.168.86.97 -> 90668 -> visited index
+[22:19:22] @ 192.168.86.97 -> 90668 -> visited om oss
+[22:19:23] @ 192.168.86.97 -> 90668 -> Klickade på 'Om-Oss' efter 2365.3481006622ms
+[22:19:23] @ 192.168.86.97 -> 90668 -> visited om oss
+[22:19:24] @ 192.168.86.97 -> 90668 -> visited index
+[22:19:25] @ 192.168.86.97 -> 90668 -> visited boka
+[22:19:26] @ 192.168.86.97 -> 90668 -> Klickade på 'Boka' efter 4932.3890209198ms
+[22:19:26] @ 192.168.86.97 -> 90668 -> visited boka
+[22:19:26] @ 192.168.86.97 -> 90668 -> visited index
+[22:19:27] @ 192.168.86.97 -> 90668 -> visited mat
+[22:19:28] @ 192.168.86.97 -> 90668 -> visited lunch
+[22:19:29] @ 192.168.86.97 -> 90668 -> Klickade på 'Lunchrätten' efter 8057.3770999908ms
+[22:19:29] @ 192.168.86.97 -> 90668 -> Blev färdig efter 8091.6080474854ms
+[22:20:01] @ 192.168.86.97 -> 90668 -> Blev färdig efter 39768.890142441ms
+[22:20:17] @ 192.168.86.97 -> 90668 -> Blev färdig efter 55748.182058334ms
+[22:20:18] @ 192.168.86.97 -> 90668 -> Blev färdig efter 57466.63403511ms
+[22:20:19] @ 192.168.86.97 -> 90668 -> Blev färdig efter 58245.445013046ms
+[22:20:20] @ 192.168.86.97 -> 90668 -> Blev färdig efter 58878.144979477ms
+[22:20:20] @ 192.168.86.97 -> 90668 -> Blev färdig efter 59403.730154037ms
+[22:20:21] @ 192.168.86.97 -> 90668 -> Blev färdig efter 59983.587026596ms
+[22:20:21] @ 192.168.86.97 -> 90668 -> Blev färdig efter 60651.157140732ms
+[22:22:05] Session with ip 192.168.86.97 got initialized and allocated the code ca74d
+[22:22:05] @ 192.168.86.97 -> ca74d -> visited index
+[22:22:07] @ 192.168.86.97 -> ca74d -> visited om oss
+[22:22:08] @ 192.168.86.97 -> ca74d -> Klickade på 'Om-Oss' efter 3103.4591197968ms
+[22:22:08] @ 192.168.86.97 -> ca74d -> visited om oss
+[22:22:09] @ 192.168.86.97 -> ca74d -> visited index
+[22:22:10] @ 192.168.86.97 -> ca74d -> visited boka
+[22:22:11] @ 192.168.86.97 -> ca74d -> Klickade på 'Boka' efter 5495.1009750366ms
+[22:22:11] @ 192.168.86.97 -> ca74d -> visited boka
+[22:22:12] @ 192.168.86.97 -> ca74d -> visited index
+[22:22:13] @ 192.168.86.97 -> ca74d -> visited mat
+[22:22:13] @ 192.168.86.97 -> ca74d -> visited lunch
+[22:22:21] @ 192.168.86.97 -> ca74d -> Klickade på 'Lunchrätten' efter 15381.376028061ms
+[22:22:21] @ 192.168.86.97 -> ca74d -> Blev färdig efter 15444.190979004ms
+[22:47:15] Session with ip 192.168.86.97 got initialized and allocated the code 306cd
+[22:47:15] @ 192.168.86.97 -> 306cd -> visited index
+[22:47:34] @ 192.168.86.97 -> 306cd -> visited om oss
+[22:47:35] @ 192.168.86.97 -> 306cd -> Klickade på 'Om-Oss' efter 20165.611982346ms
+[22:47:35] @ 192.168.86.97 -> 306cd -> visited om oss
+[22:47:36] @ 192.168.86.97 -> 306cd -> visited index
+[22:47:37] @ 192.168.86.97 -> 306cd -> visited boka
+[22:47:37] @ 192.168.86.97 -> 306cd -> Klickade på 'Boka' efter 22732.203960419ms
+[22:47:37] @ 192.168.86.97 -> 306cd -> visited boka
+[22:47:38] @ 192.168.86.97 -> 306cd -> visited index
+[22:47:39] @ 192.168.86.97 -> 306cd -> visited mat
+[22:47:40] @ 192.168.86.97 -> 306cd -> visited lunch
+[22:47:43] @ 192.168.86.97 -> 306cd -> Klickade på 'Lunchrätten' efter 27919.605970383ms
+[22:47:43] @ 192.168.86.97 -> 306cd -> Blev färdig efter 27944.032907486ms
