@@ -11,8 +11,10 @@ logger("visited om oss");
 
 if ($_SESSION['stateOm']) {
     $display1 = "";
+    $display0 = " ";
 } else {
     $display1 = "display:none";
+    $display0 = " main-fix ";
 }
 
 ?>
@@ -22,6 +24,7 @@ if ($_SESSION['stateOm']) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="height=device-heght, initial-scale=1.0">
     <meta name="author" content="Samuel Janson Entian">
     <meta charset="UTF-8">
     <link rel="icon" href="src/favicon.ico" type="image/x-icon"/>
@@ -29,13 +32,13 @@ if ($_SESSION['stateOm']) {
     <link rel="stylesheet" href="styling/delsidor/delsidor.css">
     <link rel="stylesheet" href="styling/delsidor/om-oss/om-oss.css">
     <script type="text/javascript" src="scripts/dev.js" defer></script>
-    <title>Dev Om-Oss | Alpha 1.1</title>
+    <title>Handlaren | Om oss</title>
 </head>
 <body>
     <div class="header">
         <div id="title">Restaurang Handlaren</div>
     </div>
-    <div class="main main-fix">
+    <div class="main<?php echo $display0 ?>main-om-fix">
         <div class="content">
             <div class="cont">
                 <div class="cont-title">Om Restaurangen</div>
@@ -45,18 +48,19 @@ if ($_SESSION['stateOm']) {
                     <button type="submit" value="Submit"><h6>Hitta hit</h6></button>
                 </form>
                 <div class="addr" style="<?php echo $display1 ?>">Furikvägen 63B</br>Stockholm</div>
+                <div id="btn" style="<?php echo $display1 ?>">Tryck här för att gå tillbaka!</div>
             </div>
         </div>
     </div>
     <div class="footer">
-        <div class="inf">
+        <div class="inf"><!--
             <div class="adress">
                 <p class="ttl">Address</p>
                 <div class="txt">
                     <p class="adr tel">Furikvägen 63B</p>
                     <p class="cit epost">Stockholm</p>
                 </div>
-            </div>
+            </div>-->
             <div class="kontakt">
                 <p class="ttl">Kontakt</p>
                 <div class="txt">

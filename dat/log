@@ -1,88 +1,70 @@
-[08:15:17] Session with ip 192.168.86.1 got initialized and allocated the code 06085
-[08:15:17] @ 192.168.86.1 -> 06085 -> visited index
-[08:15:26] @ 192.168.86.1 -> 06085 -> visited boka
-[08:15:28] @ 192.168.86.1 -> 06085 -> Klickade på 'Boka' efter 11645.112991333ms
-[08:15:28] @ 192.168.86.1 -> 06085 -> visited boka
-[08:15:32] @ 192.168.86.1 -> 06085 -> visited index
-[08:15:38] @ 192.168.86.1 -> 06085 -> visited boka
-[08:15:40] @ 192.168.86.1 -> 06085 -> visited index
-[08:15:41] @ 192.168.86.1 -> 06085 -> visited om oss
-[08:15:44] @ 192.168.86.1 -> 06085 -> Klickade på 'Om-Oss' efter 27182.854175568ms
-[08:15:44] @ 192.168.86.1 -> 06085 -> visited om oss
-[08:15:47] @ 192.168.86.1 -> 06085 -> visited index
-[08:15:49] @ 192.168.86.1 -> 06085 -> visited mat
-[08:15:51] @ 192.168.86.1 -> 06085 -> visited lunch
-[08:15:57] @ 192.168.86.1 -> 06085 -> visited index
-[08:15:59] @ 192.168.86.1 -> 06085 -> visited mat
-[08:16:00] @ 192.168.86.1 -> 06085 -> visited lunch
-[08:16:02] @ 192.168.86.1 -> 06085 -> Klickade på 'Lunchrätten' efter 45401.638031006ms
-[08:16:02] @ 192.168.86.1 -> 06085 -> Blev färdig efter 45553.009033203ms
-[08:18:40] Session with ip 192.168.86.1 got initialized and allocated the code 305f4
-[08:18:40] @ 192.168.86.1 -> 305f4 -> visited index
-[08:18:41] @ 192.168.86.1 -> 305f4 -> visited om oss
-[08:18:42] @ 192.168.86.1 -> 305f4 -> Klickade på 'Om-Oss' efter 2641.1650180817ms
-[08:18:42] @ 192.168.86.1 -> 305f4 -> visited om oss
-[08:18:43] @ 192.168.86.1 -> 305f4 -> visited index
-[08:18:45] @ 192.168.86.1 -> 305f4 -> visited boka
-[08:18:45] @ 192.168.86.1 -> 305f4 -> Klickade på 'Boka' efter 5664.0980243683ms
-[08:18:45] @ 192.168.86.1 -> 305f4 -> visited boka
-[08:18:46] @ 192.168.86.1 -> 305f4 -> visited index
-[08:18:47] @ 192.168.86.1 -> 305f4 -> visited mat
-[08:18:48] @ 192.168.86.1 -> 305f4 -> visited lunch
-[08:18:49] @ 192.168.86.1 -> 305f4 -> Klickade på 'Lunchrätten' efter 9698.1189250946ms
-[08:18:49] @ 192.168.86.1 -> 305f4 -> Blev färdig efter 9735.013961792ms
-[08:19:13] Session with ip 192.168.86.1 has already visited the server! Not initializing time and other variables!
-[08:19:13] @ 192.168.86.1 -> 305f4 -> visited index
-[08:19:15] @ 192.168.86.1 -> 305f4 -> visited om oss
-[08:19:16] @ 192.168.86.1 -> 305f4 -> Blev färdig efter 36722.915887833ms
-[08:24:48] Session with ip 35.227.62.178 got initialized and allocated the code 54019
-[08:24:49] @ 35.227.62.178 -> N/A -> visited index
-[08:24:54] Session with ip 192.168.86.1 has already visited the server! Not initializing time and other variables!
-[08:24:54] @ 192.168.86.1 -> 305f4 -> visited index
-[08:25:00] @ 192.168.86.1 -> 305f4 -> visited om oss
-[08:25:03] @ 192.168.86.1 -> 305f4 -> Blev färdig efter 383763.11397552ms
-[09:31:09] Session with ip 192.168.86.23 got initialized and allocated the code 1a9ed
-[09:31:09] @ 192.168.86.23 -> 1a9ed -> visited index
-[09:31:11] @ 192.168.86.23 -> 1a9ed -> visited om oss
-[09:31:14] @ 192.168.86.23 -> 1a9ed -> Klickade på 'Om-Oss' efter 4570.8789825439ms
-[09:31:14] @ 192.168.86.23 -> 1a9ed -> visited om oss
-[09:31:17] @ 192.168.86.23 -> 1a9ed -> visited index
-[09:31:18] @ 192.168.86.23 -> 1a9ed -> visited boka
-[09:31:19] @ 192.168.86.23 -> 1a9ed -> Klickade på 'Boka' efter 9820.3499317169ms
-[09:31:19] @ 192.168.86.23 -> 1a9ed -> visited boka
-[09:31:20] @ 192.168.86.23 -> 1a9ed -> visited index
-[09:31:21] @ 192.168.86.23 -> 1a9ed -> visited mat
-[09:31:22] @ 192.168.86.23 -> 1a9ed -> visited lunch
-[09:31:24] @ 192.168.86.23 -> 1a9ed -> Klickade på 'Lunchrätten' efter 14312.280893326ms
-[09:31:24] @ 192.168.86.23 -> 1a9ed -> Blev färdig efter 14353.77907753ms
-[10:01:26] Session with ip 83.250.110.239 got initialized and allocated the code d6761
-[10:01:26] @ 83.250.110.239 -> d6761 -> visited index
-[10:01:43] @ 83.250.110.239 -> d6761 -> visited mat
-[10:01:48] @ 83.250.110.239 -> d6761 -> visited lunch
-[10:48:55] Session with ip 192.168.86.1 got initialized and allocated the code 5c210
-[10:48:55] @ 192.168.86.1 -> 5c210 -> visited index
-[10:48:59] @ 192.168.86.1 -> 5c210 -> visited mat
-[10:49:00] @ 192.168.86.1 -> 5c210 -> visited lunch
-[10:49:01] @ 192.168.86.1 -> 5c210 -> Klickade på 'Lunchrätten' efter 6791.3579940796ms
-[10:49:01] @ 192.168.86.1 -> 5c210 -> visited lunch
-[10:49:06] @ 192.168.86.1 -> 5c210 -> visited lunch
-[10:49:08] @ 192.168.86.1 -> 5c210 -> visited mat
-[10:49:12] @ 192.168.86.1 -> 5c210 -> visited lunch
-[10:49:13] @ 192.168.86.1 -> 5c210 -> visited mat
-[10:49:13] @ 192.168.86.1 -> 5c210 -> visited index
-[10:49:15] @ 192.168.86.1 -> 5c210 -> visited om oss
-[10:49:17] @ 192.168.86.1 -> 5c210 -> Klickade på 'Om-Oss' efter 22100.572824478ms
-[10:49:17] @ 192.168.86.1 -> 5c210 -> visited om oss
-[10:49:21] @ 192.168.86.1 -> 5c210 -> visited om oss
-[10:49:22] @ 192.168.86.1 -> 5c210 -> visited index
-[10:49:24] @ 192.168.86.1 -> 5c210 -> visited boka
-[10:49:29] @ 192.168.86.1 -> 5c210 -> Klickade på 'Boka' efter 34484.06291008ms
-[10:49:29] @ 192.168.86.1 -> 5c210 -> Blev färdig efter 34508.234977722ms
-[10:51:24] Session with ip 192.36.155.206 got initialized and allocated the code a38e2
-[10:51:24] @ 192.36.155.206 -> a38e2 -> visited index
-[10:51:30] @ 192.36.155.206 -> a38e2 -> visited mat
-[10:51:33] @ 192.36.155.206 -> a38e2 -> visited index
-[10:51:34] @ 192.36.155.206 -> a38e2 -> visited boka
-[10:51:39] @ 192.36.155.206 -> a38e2 -> visited index
-[10:51:40] @ 192.36.155.206 -> a38e2 -> visited om oss
-[10:51:43] @ 192.36.155.206 -> a38e2 -> visited index
+[13:27:40] Session with ip 192.168.86.1 got initialized and allocated the code dfefd
+[13:27:40] @ 192.168.86.1 -> dfefd -> visited index
+[13:27:48] @ 192.168.86.1 -> dfefd -> visited om oss
+[13:27:50] @ 192.168.86.1 -> dfefd -> Klickade på 'Om-Oss' efter 9767.1399116516ms
+[13:27:50] @ 192.168.86.1 -> dfefd -> visited om oss
+[13:27:55] @ 192.168.86.1 -> dfefd -> visited index
+[13:27:57] @ 192.168.86.1 -> dfefd -> visited boka
+[13:27:59] @ 192.168.86.1 -> dfefd -> Klickade på 'Boka' efter 18469.604969025ms
+[13:27:59] @ 192.168.86.1 -> dfefd -> visited boka
+[13:28:00] @ 192.168.86.1 -> dfefd -> visited index
+[13:28:02] @ 192.168.86.1 -> dfefd -> visited mat
+[13:28:03] @ 192.168.86.1 -> dfefd -> visited lunch
+[13:28:06] @ 192.168.86.1 -> dfefd -> visited index
+[13:28:07] @ 192.168.86.1 -> dfefd -> visited mat
+[13:28:10] @ 192.168.86.1 -> dfefd -> visited lunch
+[13:28:11] @ 192.168.86.1 -> dfefd -> Klickade på 'Lunchrätten' efter 30891.634941101ms
+[13:28:11] @ 192.168.86.1 -> dfefd -> Blev färdig efter 30913.440942764ms
+[13:29:41] Session with ip 192.168.86.1 got initialized and allocated the code c7bb1
+[13:29:41] @ 192.168.86.1 -> c7bb1 -> visited index
+[13:29:42] @ 192.168.86.1 -> c7bb1 -> visited om oss
+[13:29:44] @ 192.168.86.1 -> c7bb1 -> Klickade på 'Om-Oss' efter 2997.8058338165ms
+[13:29:44] @ 192.168.86.1 -> c7bb1 -> visited om oss
+[13:29:53] @ 192.168.86.1 -> c7bb1 -> visited index
+[13:29:54] @ 192.168.86.1 -> c7bb1 -> visited boka
+[13:29:56] @ 192.168.86.1 -> c7bb1 -> Klickade på 'Boka' efter 14916.138887405ms
+[13:29:56] @ 192.168.86.1 -> c7bb1 -> visited boka
+[13:29:58] @ 192.168.86.1 -> c7bb1 -> visited index
+[13:29:59] @ 192.168.86.1 -> c7bb1 -> visited om oss
+[13:31:07] @ 192.168.86.1 -> c7bb1 -> visited om oss
+[13:31:36] @ 192.168.86.1 -> c7bb1 -> visited om oss
+[13:32:09] Session with ip 192.168.86.1 got initialized and allocated the code 61851
+[13:32:09] @ 192.168.86.1 -> 61851 -> visited index
+[13:32:16] @ 192.168.86.1 -> 61851 -> visited om oss
+[13:32:33] @ 192.168.86.1 -> 61851 -> Klickade på 'Om-Oss' efter 23439.314126968ms
+[13:32:33] @ 192.168.86.1 -> 61851 -> visited om oss
+[13:37:17] @ 192.168.86.1 -> 61851 -> visited om oss
+[13:37:19] @ 192.168.86.1 -> 61851 -> visited om oss
+[13:37:38] @ 192.168.86.1 -> 61851 -> visited om oss
+[13:37:43] @ 192.168.86.1 -> 61851 -> visited om oss
+[13:38:29] @ 192.168.86.1 -> 61851 -> visited om oss
+[13:39:04] @ 192.168.86.1 -> 61851 -> visited om oss
+[13:39:25] @ 192.168.86.1 -> 61851 -> visited om oss
+[13:40:28] @ 192.168.86.1 -> c7bb1 -> visited om oss
+[13:41:05] Session with ip 192.168.86.1 got initialized and allocated the code 3b207
+[13:41:05] @ 192.168.86.1 -> 3b207 -> visited index
+[13:41:07] @ 192.168.86.1 -> 3b207 -> visited om oss
+[13:42:59] @ 192.168.86.1 -> 3b207 -> visited om oss
+[13:43:01] @ 192.168.86.1 -> 3b207 -> Klickade på 'Om-Oss' efter 115840.58904648ms
+[13:43:01] @ 192.168.86.1 -> 3b207 -> visited om oss
+[13:43:05] @ 192.168.86.1 -> 3b207 -> visited index
+[13:43:05] @ 192.168.86.1 -> 3b207 -> visited boka
+[13:43:08] @ 192.168.86.1 -> 3b207 -> visited index
+[13:43:09] @ 192.168.86.1 -> 3b207 -> visited mat
+[13:43:10] @ 192.168.86.1 -> 3b207 -> visited lunch
+[13:43:12] @ 192.168.86.1 -> 3b207 -> visited index
+[13:43:13] @ 192.168.86.1 -> 3b207 -> visited mat
+[13:43:14] @ 192.168.86.1 -> 3b207 -> visited lunch
+[13:43:16] @ 192.168.86.1 -> 3b207 -> visited index
+[13:43:18] @ 192.168.86.1 -> 3b207 -> visited om oss
+[13:45:34] Session with ip 192.168.86.1 got initialized and allocated the code 3d80f
+[13:45:34] @ 192.168.86.1 -> 3d80f -> visited index
+[13:45:36] @ 192.168.86.1 -> 3d80f -> visited om oss
+[13:45:59] @ 192.168.86.1 -> 3d80f -> Klickade på 'Om-Oss' efter 24693.055868149ms
+[13:45:59] @ 192.168.86.1 -> 3d80f -> visited om oss
+[13:46:17] @ 192.168.86.1 -> 3d80f -> visited index
+[13:49:30] @ 192.168.86.1 -> 3d80f -> visited mat
+[13:50:12] @ 192.168.86.1 -> 3d80f -> visited lunch
+[13:50:59] @ 192.168.86.1 -> 3d80f -> Klickade på 'Lunchrätten' efter 325139.71400261ms
+[13:50:59] @ 192.168.86.1 -> 3d80f -> visited lunch
+[13:51:13] @ 192.168.86.1 -> 3d80f -> visited index

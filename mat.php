@@ -23,7 +23,7 @@ logger("visited mat");
     <link rel="stylesheet" href="styling/delsidor/delsidor.css">
     <link rel="stylesheet" href="styling/delsidor/mat/mat.css">
     <script type="text/javascript" src="scripts/dev.js" defer></script>
-    <title>Dev Vår mat | Alpha 1.1</title>
+    <title>Handlaren | Menyer</title>
 </head>
 <body>
     <div class="header">
@@ -41,14 +41,14 @@ logger("visited mat");
         </div>
     </div>
     <div class="footer">
-        <div class="inf">
+        <div class="inf"><!--
             <div class="adress">
                 <p class="ttl">Address</p>
                 <div class="txt">
                     <p class="adr tel">Furikvägen 63B</p>
                     <p class="cit epost">Stockholm</p>
                 </div>
-            </div>
+            </div>-->
             <div class="kontakt">
                 <p class="ttl">Kontakt</p>
                 <div class="txt">

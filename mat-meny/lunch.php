@@ -77,8 +77,10 @@ logger("visited lunch");
 
 if (!$_SESSION['stateMat']) {
     $display1 = "";
+    $display0 = "display:none";
 } else {
     $display1 = "background-color:lightgreen";
+    $display0 = "";
 }
 ?>
 
@@ -95,7 +97,7 @@ if (!$_SESSION['stateMat']) {
     <link rel="stylesheet" href="../styling/delsidor/mat/mat.css">
     <link rel="stylesheet" href="../styling/delsidor/mat/menyer/meny.css">
     <script type="text/javascript" src="../scripts/dev.js" defer></script>
-    <title>Dev Vår mat | Alpha 1.1</title>
+    <title>Handlaren | Lunchmeny</title>
 </head>
 <body id="m">
     <div class="header">
@@ -116,6 +118,7 @@ if (!$_SESSION['stateMat']) {
                             <button type="submit" value="Submit"><span class="dag">Torsdag</span> Pytt i panna <span class="pris">145</span></button>
                         </form>
                     </div>
+                    <div id="btn" style="<?php echo $display0 ?>">Tryck här för att gå tillbaka!</div>
                     <div class="mat"><span class="dag">Fredag</span> Krämig renskavspanna <span class="pris">145</span></div>
                 </div>
                 <div class="p1">
@@ -135,14 +138,14 @@ if (!$_SESSION['stateMat']) {
         </div>
     </div>
     <div class="footer">
-        <div class="inf">
+        <div class="inf"><!--
             <div class="adress">
                 <p class="ttl">Address</p>
                 <div class="txt">
                     <p class="adr tel">Furikvägen 63B</p>
                     <p class="cit epost">Stockholm</p>
                 </div>
-            </div>
+            </div>-->
             <div class="kontakt">
                 <p class="ttl">Kontakt</p>
                 <div class="txt">

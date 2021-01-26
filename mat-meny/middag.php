@@ -90,7 +90,7 @@ logger("visited lunch");
     <link rel="stylesheet" href="../styling/delsidor/mat/mat.css">
     <link rel="stylesheet" href="../styling/delsidor/mat/menyer/meny.css">
     <script type="text/javascript" src="../scripts/dev.js" defer></script>
-    <title>Dev Vår mat | Alpha 1.1</title>
+    <title>Handlaren | Middagsmeny</title>
 </head>
 <body id="m">
     <div class="header">
@@ -130,14 +130,14 @@ logger("visited lunch");
         </div>
     </div>
     <div class="footer">
-        <div class="inf">
+        <div class="inf"><!--
             <div class="adress">
                 <p class="ttl">Address</p>
                 <div class="txt">
                     <p class="adr tel">Furikvägen 63B</p>
                     <p class="cit epost">Stockholm</p>
                 </div>
-            </div>
+            </div>-->
             <div class="kontakt">
                 <p class="ttl">Kontakt</p>
                 <div class="txt">

@@ -1,5 +1,4 @@
 
-
 try {
     document.getElementById("mat").addEventListener("click", function() {
         window.location.href = "mat";
@@ -31,13 +30,13 @@ try {
     var title = document.getElementById("title");
     if(document.getElementById("m")) {
         document.getElementById("title").addEventListener("click", function() {
-            window.location.href = "../index.php?iSu8M";
+            window.location.href = "../index.php";
         });
         console.log(0);
     }
     else {
         document.getElementById("title").addEventListener("click", function() {
-            window.location.href = "index.php?iSu8M";
+            window.location.href = "index.php";
         });
         console.log(1);
     }
@@ -56,6 +55,26 @@ try {
 }
 catch (error) {
     console.log("menu buttons not available on this page");
+}
+
+
+
+try {
+    if(document.getElementById("m")) {
+        document.getElementById("btn").addEventListener("click", function() {
+            window.location.href = "../index";
+        });
+        console.log(0);
+    }
+    else {
+        document.getElementById("btn").addEventListener("click", function() {
+            window.location.href = "index";
+        });
+        console.log(1);
+    }
+}
+catch (error) {
+    console.log("tillbaka button not available on this page");
 }
 
 //TODO: gör separata

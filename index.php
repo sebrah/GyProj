@@ -22,7 +22,7 @@ logger("visited index");
     <link rel="stylesheet" href="styling/scrollbar.css">
     <link rel="stylesheet" href="styling/index-style.css">
     <script type="text/javascript" src="scripts/dev.js" defer></script>
-    <title></title>
+    <title>Restaurang Handlaren</title>
 </head>
 <body>
     <div class="header">
@@ -35,19 +35,19 @@ logger("visited index");
         </div>
     </div>
     <div class="main">
-        <div class="t1">curabitur euismod nisl ut augue</div>
+        <div class="t1">med kärlek för handeln</div>
         <div class="p1">
-            Ut tempor quam nec cursus commodo. Morbi egestas mauris velit, sed auctor mi laoreet ac. Vestibulum tincidunt tempor mattis.</br></br>Maecenas aliquam dui eget elementum cursus. Sed sed mauris suscipit, rhoncus nisl et, aliquam tortor. Mauris et justo lacinia, tristique enim ac, tincidunt est. Vivamus dictum semper lacinia. Duis sodales sit amet risus finibus ultrices. Etiam dictum, arcu nec placerat convallis, odio lacus eleifend ligula, a posuere elit odio sed est. Donec efficitur, lacus et finibus condimentum, lacus enim vulputate justo, sed aliquet tellus libero at ex. Vestibulum mattis ipsum magna, at pulvinar odio fringilla nec. Suspendisse sed mauris id urna tincidunt condimentum. Aliquam sed ultricies ante</div>
-        <div class="t2">Sed sit amet tortor</div>
+            Restaurang Handlaren ligger på Öskaret i Troholm, ett stenkast från Vetesten och vackra Humlegården med en värme av både småstadspuls och grönska.</br></br>Namnet på restaurangen skvallrar om att vi vill att mat, inredning och hela upplevelsen andas det fina handeln. Det är det vi lever för: att laga god mat lagad från grunden med hjärta, själ, handgripligen med våra flinka händer, precis som alla riktiga handlare jobbar.</div>
+        <div class="t2">vi är safe to visit!</div>
         <div class="p1">
-            Ut tempor quam nec cursus commodo. Morbi egestas mauris velit, sed auctor mi laoreet ac. Vestibulum tincidunt tempor mattis.</br></br>Maecenas aliquam dui eget elementum cursus. Sed sed mauris suscipit, rhoncus nisl et, aliquam tortor. Mauris et justo lacinia, tristique enim ac, tincidunt est. Vivamus dictum semper lacinia. Duis sodales sit amet risus finibus ultrices. Etiam dictum, arcu nec placerat convallis, odio lacus eleifend ligula, a posuere elit odio sed est. Donec efficitur, lacus et finibus condimentum, lacus enim vulputate justo, sed aliquet tellus libero at ex. Vestibulum mattis ipsum magna, at pulvinar odio fringilla nec. Suspendisse sed mauris id urna tincidunt condimentum. Aliquam sed ultricies ante</div>
+            I dessa tider vill vi att ni ska känna er trygga hos oss. Handlaren följer utvecklingen noggrant och jobbar stenhårt för att vidta alla de åtgärder som säkrar våra gästers och medarbetares säkerhet och välbefinnande.</br></br>Vi har större avstånd mellan borden och det är numera färre platser i restaurangen. Vi följer alla riktlinjer från Folkhälsomyndigheten och alla rekommendationer från branschorganisationen Visita – vi är ”Safe to Visit”.</br></br>Vi är mer peppade, matglada, energifyllda, kärleksfulla och laddade än någonsin innan för att hålla våran älskade restaurang öppen för alla er som vill komma hit och ha en fin stund tillsammans.</div>
     </div>
     <div class="footer">
-        <div class="inf">
+        <div class="inf"><!--
             <div class="adress">
                 <p class="ttl">Address</p>
                 <div class="txt"><p class="adr tel">Furikvägen 63B</p><p class="cit epost">Stockholm</p></div>
-            </div>
+            </div>-->
             <div class="kontakt">
                 <p class="ttl">Kontakt</p>
                 <div class="txt"><p class="tel">+46 16 788 7491</p><p class="epost">kontakt@restaurang.se</p></div>

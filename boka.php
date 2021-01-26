@@ -31,7 +31,7 @@ if ($_SESSION['stateBoka']) {
     <link rel="stylesheet" href="styling/delsidor/delsidor.css">
     <link rel="stylesheet" href="styling/delsidor/boka-bord/boka-bord.css">
     <script type="text/javascript" src="scripts/dev.js" defer></script>
-    <title>Dev Boka Bord | Alpha 1.1</title>
+    <title>Handlaren | Boka bord</title>
 </head>
 <body>
     <div class="header">
@@ -41,7 +41,7 @@ if ($_SESSION['stateBoka']) {
         <div class="content">
             <div class="cont">
                 <div class="cont-title">Boka Bord</div>
-                <div class="res" style="<?php echo $display1; ?>">Du har bokat! Du kan nu fortsätta på sidan...</div>
+                <div class="res" style="<?php echo $display1; ?>">Du har bokat! Du kan nu fortsätta på sidan... <div id="btn">Tryck här för att gå tillbaka!</div></div>
             </div>
             <div class="cont-tbl" style="<?php echo $display0; ?>">
                 <table>
@@ -140,14 +140,14 @@ if ($_SESSION['stateBoka']) {
         </div>
     </div>
     <div class="footer">
-        <div class="inf">
+        <div class="inf"><!--
             <div class="adress">
                 <p class="ttl">Address</p>
                 <div class="txt">
                     <p class="adr tel">Furikvägen 63B</p>
                     <p class="cit epost">Stockholm</p>
                 </div>
-            </div>
+            </div>-->
             <div class="kontakt">
                 <p class="ttl">Kontakt</p>
                 <div class="txt">
