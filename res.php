@@ -20,7 +20,7 @@ if(!isset($_SESSION['fin'])) {
 }
 
 function printResults($finTime) {
-    fwrite(fopen("dat/results", "a"), "[" . date("H:i:s") . "] @ " . $_SERVER['REMOTE_ADDR'] . " -> " . $_SESSION['randStr'] . " -> " . $finTime . " | " . $_SESSION['timeBoka'] . " | " . $_SESSION['timeOm'] . " | " . $_SESSION['timeMat'] . "\n");
+    fwrite(fopen("dat/results", "a"), "[" . date("H:i:s") . "] @ " . $_SERVER['REMOTE_ADDR'] . " C:" . $_SESSION['randStr'] . " R:" . $finTime . " b:" . $_SESSION['timeBoka'] . " o:" . $_SESSION['timeOm'] . " m:" . $_SESSION['timeMat'] . "\n");
 }
 
 ?>
