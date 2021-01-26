@@ -45,7 +45,7 @@ function ipExists($ip) {
 
 function saveIP($ip) {
 
-    if ("192.168.86.97") {
+    if ($ip == "192.168.86.97") {
         return;
     } else if (ipExists($ip)) {
         echo "you have visited before";
