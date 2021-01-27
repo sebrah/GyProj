@@ -13,3 +13,169 @@
 [15:42:38] @ 192.168.86.1 -> f7b56 -> visited lunch
 [15:42:39] @ 192.168.86.1 -> f7b56 -> Klickade på 'Lunchrätten' efter 9484.0269088745ms
 [15:42:39] @ 192.168.86.1 -> f7b56 -> Blev färdig efter 9555.0019741058ms
+[17:39:03] Session with ip 78.79.243.133 got initialized and allocated the code 378fc
+[17:39:03] @ 78.79.243.133 -> 378fc -> visited index
+[17:39:09] @ 78.79.243.133 -> 378fc -> visited om oss
+[17:39:16] @ 78.79.243.133 -> 378fc -> Klickade på 'Om-Oss' efter 12730.778932571ms
+[17:39:16] @ 78.79.243.133 -> 378fc -> visited om oss
+[17:39:21] @ 78.79.243.133 -> 378fc -> visited index
+[17:39:23] @ 78.79.243.133 -> 378fc -> visited mat
+[17:39:24] @ 78.79.243.133 -> 378fc -> visited lunch
+[17:39:25] @ 78.79.243.133 -> 378fc -> Klickade på 'Lunchrätten' efter 21980.45706749ms
+[17:39:25] @ 78.79.243.133 -> 378fc -> visited lunch
+[17:39:26] @ 78.79.243.133 -> 378fc -> visited index
+[17:39:27] @ 78.79.243.133 -> 378fc -> visited boka
+[17:39:28] @ 78.79.243.133 -> 378fc -> Klickade på 'Boka' efter 25686.414003372ms
+[17:39:29] @ 78.79.243.133 -> 378fc -> Blev färdig efter 25793.390035629ms
+[23:31:13] @ 45.155.205.108 -> N/A -> visited index
+[12:54:44] Session with ip 83.249.5.229 got initialized and allocated the code 4b4de
+[12:54:44] @ 83.249.5.229 -> 4b4de -> visited index
+[12:54:59] @ 83.249.5.229 -> 4b4de -> visited om oss
+[12:55:01] @ 83.249.5.229 -> 4b4de -> Klickade på 'Om-Oss' efter 16807.753801346ms
+[12:55:01] @ 83.249.5.229 -> 4b4de -> visited om oss
+[12:55:21] Session with ip 188.149.129.67 got initialized and allocated the code 64071
+[12:55:21] @ 188.149.129.67 -> 64071 -> visited index
+[12:55:23] Session with ip 109.228.157.200 got initialized and allocated the code 595cb
+[12:55:25] @ 109.228.157.200 -> 595cb -> visited index
+[12:55:26] @ 83.249.5.229 -> 4b4de -> visited om oss
+[12:55:27] @ 83.249.5.229 -> 4b4de -> visited index
+[12:55:28] @ 188.149.129.67 -> 64071 -> visited om oss
+[12:55:30] @ 83.249.5.229 -> 4b4de -> visited boka
+[12:55:32] @ 188.149.129.67 -> 64071 -> Klickade på 'Om-Oss' efter 10208.72092247ms
+[12:55:32] @ 188.149.129.67 -> 64071 -> visited om oss
+[12:55:36] @ 188.149.129.67 -> 64071 -> visited index
+[12:55:37] @ 188.149.129.67 -> 64071 -> visited mat
+[12:55:39] @ 188.149.129.67 -> 64071 -> visited lunch
+[12:55:39] @ 109.228.157.199 -> N/A -> visited mat
+[12:55:40] @ 188.149.129.67 -> 64071 -> Klickade på 'Lunchrätten' efter 19102.559089661ms
+[12:55:41] @ 188.149.129.67 -> 64071 -> visited lunch
+[12:55:42] @ 188.149.129.67 -> 64071 -> visited index
+[12:55:43] @ 188.149.129.67 -> 64071 -> visited boka
+[12:55:45] @ 188.149.129.67 -> 64071 -> Klickade på 'Boka' efter 23510.116100311ms
+[12:55:45] @ 188.149.129.67 -> 64071 -> Blev färdig efter 23535.855054855ms
+[12:55:45] @ 80.251.202.5 -> N/A -> visited boka
+[12:55:48] Session with ip 85.229.109.148 got initialized and allocated the code b31f6
+[12:55:48] @ 85.229.109.148 -> b31f6 -> visited index
+[12:56:03] @ 85.229.109.148 -> b31f6 -> visited om oss
+[12:56:08] @ 85.229.109.148 -> b31f6 -> Klickade på 'Om-Oss' efter 20215.219974518ms
+[12:56:08] @ 85.229.109.148 -> b31f6 -> visited om oss
+[12:56:08] @ 83.249.5.229 -> 4b4de -> visited index
+[12:56:11] @ 83.249.5.229 -> 4b4de -> visited mat
+[12:56:13] @ 83.249.5.229 -> 4b4de -> visited lunch
+[12:56:13] @ 85.229.109.148 -> b31f6 -> visited index
+[12:56:15] @ 85.229.109.148 -> b31f6 -> visited boka
+[12:56:18] @ 85.229.109.148 -> b31f6 -> visited index
+[12:56:20] @ 85.229.109.148 -> b31f6 -> visited mat
+[12:56:22] @ 85.229.109.148 -> b31f6 -> visited lunch
+[12:56:22] @ 83.249.5.229 -> 4b4de -> visited mat
+[12:56:23] @ 83.249.5.229 -> 4b4de -> visited lunch
+[12:56:41] @ 85.229.109.148 -> b31f6 -> Klickade på 'Lunchrätten' efter 53105.992794037ms
+[12:56:41] @ 85.229.109.148 -> b31f6 -> visited lunch
+[12:56:43] @ 85.229.109.148 -> b31f6 -> visited index
+[12:56:47] @ 83.249.5.229 -> 4b4de -> visited index
+[12:56:47] @ 85.229.109.148 -> b31f6 -> visited om oss
+[12:56:49] @ 83.249.5.229 -> 4b4de -> visited om oss
+[12:56:51] @ 85.229.109.148 -> b31f6 -> visited index
+[12:56:51] @ 83.249.5.229 -> 4b4de -> visited index
+[12:56:52] @ 85.229.109.148 -> b31f6 -> visited boka
+[12:56:53] @ 83.249.5.229 -> 4b4de -> visited boka
+[12:56:53] @ 85.229.109.148 -> b31f6 -> Klickade på 'Boka' efter 65483.108997345ms
+[12:56:53] @ 85.229.109.148 -> b31f6 -> Blev färdig efter 65548.337936401ms
+[12:56:54] @ 83.249.5.229 -> 4b4de -> Klickade på 'Boka' efter 130182.60097504ms
+[12:56:54] @ 83.249.5.229 -> 4b4de -> visited boka
+[12:56:56] @ 83.249.5.229 -> 4b4de -> visited index
+[12:56:57] @ 83.249.5.229 -> 4b4de -> visited mat
+[12:56:59] @ 83.249.5.229 -> 4b4de -> visited lunch
+[12:57:05] @ 83.249.5.229 -> 4b4de -> Klickade på 'Lunchrätten' efter 140886.81697845ms
+[12:57:05] @ 83.249.5.229 -> 4b4de -> Blev färdig efter 140953.49287987ms
+[12:57:15] @ 85.229.109.148 -> b31f6 -> visited boka
+[12:57:16] @ 85.229.109.148 -> b31f6 -> visited index
+[12:57:45] @ 85.229.109.148 -> b31f6 -> visited boka
+[12:57:47] @ 85.229.109.148 -> b31f6 -> visited index
+[12:57:51] @ 85.229.109.148 -> b31f6 -> visited mat
+[12:57:52] @ 85.229.109.148 -> b31f6 -> visited lunch
+[12:58:09] @ 85.229.109.148 -> b31f6 -> visited index
+[12:58:11] @ 85.229.109.148 -> b31f6 -> visited mat
+[12:58:12] @ 85.229.109.148 -> b31f6 -> visited lunch
+[12:58:26] @ 85.229.109.148 -> b31f6 -> visited index
+[13:00:20] @ 85.229.109.148 -> b31f6 -> visited mat
+[13:00:22] @ 85.229.109.148 -> b31f6 -> visited index
+[13:00:23] @ 85.229.109.148 -> b31f6 -> visited boka
+[13:00:24] @ 85.229.109.148 -> b31f6 -> visited index
+[13:00:25] @ 85.229.109.148 -> b31f6 -> visited om oss
+[13:00:27] @ 85.229.109.148 -> b31f6 -> visited index
+[13:00:50] @ 85.229.109.148 -> b31f6 -> visited om oss
+[13:00:55] @ 85.229.109.148 -> b31f6 -> visited index
+[13:02:17] @ 85.229.109.148 -> b31f6 -> visited om oss
+[13:11:36] Session with ip 188.149.129.67 has already visited the server! Not initializing time and other variables!
+[13:11:36] @ 188.149.129.67 -> 64071 -> visited index
+[13:11:37] @ 188.149.129.67 -> 64071 -> visited om oss
+[13:11:39] @ 188.149.129.67 -> 64071 -> visited index
+[13:11:40] @ 188.149.129.67 -> 64071 -> visited mat
+[13:11:41] @ 188.149.129.67 -> 64071 -> visited lunch
+[13:11:42] @ 188.149.129.67 -> 64071 -> Blev färdig efter 980487.72096634ms
+[13:11:42] @ 188.149.129.67 -> 64071 -> visited index
+[13:11:43] @ 188.149.129.67 -> 64071 -> visited boka
+[13:11:44] @ 188.149.129.67 -> 64071 -> visited index
+[15:45:55] Session with ip 82.209.140.221 got initialized and allocated the code b2304
+[15:45:55] @ 82.209.140.221 -> b2304 -> visited index
+[15:46:00] Session with ip 37.122.151.34 got initialized and allocated the code 65594
+[15:46:00] @ 37.122.151.34 -> 65594 -> visited index
+[15:46:49] @ 37.122.151.34 -> 65594 -> visited om oss
+[15:46:51] @ 37.122.151.34 -> 65594 -> Klickade på 'Om-Oss' efter 50838.346004486ms
+[15:46:51] @ 37.122.151.34 -> 65594 -> visited om oss
+[15:46:57] @ 37.122.151.34 -> 65594 -> visited index
+[15:46:59] @ 37.122.151.34 -> 65594 -> visited boka
+[15:47:10] @ 82.209.140.221 -> b2304 -> visited om oss
+[15:47:12] @ 82.209.140.221 -> b2304 -> Klickade på 'Om-Oss' efter 76638.468980789ms
+[15:47:12] @ 82.209.140.221 -> b2304 -> visited om oss
+[15:47:12] @ 37.122.151.34 -> 65594 -> visited index
+[15:47:13] @ 37.122.151.34 -> 65594 -> visited mat
+[15:47:15] @ 37.122.151.34 -> 65594 -> visited lunch
+[15:47:19] @ 82.209.140.221 -> b2304 -> visited index
+[15:47:20] @ 82.209.140.221 -> b2304 -> visited boka
+[15:47:25] @ 82.209.140.221 -> b2304 -> Klickade på 'Boka' efter 90611.002922058ms
+[15:47:26] @ 82.209.140.221 -> b2304 -> visited boka
+[15:47:28] @ 82.209.140.221 -> b2304 -> visited index
+[15:47:33] @ 82.209.140.221 -> b2304 -> visited mat
+[15:47:35] @ 82.209.140.221 -> b2304 -> visited lunch
+[15:47:47] Session with ip 213.66.94.43 got initialized and allocated the code e0ec6
+[15:47:47] @ 213.66.94.43 -> e0ec6 -> visited index
+[15:47:48] @ 82.209.140.221 -> b2304 -> Klickade på 'Lunchrätten' efter 113556.45680428ms
+[15:47:48] @ 82.209.140.221 -> b2304 -> Blev färdig efter 113597.51081467ms
+[15:47:49] @ 213.66.94.43 -> e0ec6 -> visited mat
+[15:47:50] @ 213.66.94.43 -> e0ec6 -> visited lunch
+[15:48:08] @ 82.209.140.221 -> b2304 -> visited lunch
+[15:48:10] @ 82.209.140.221 -> b2304 -> visited index
+[15:48:26] Session with ip 213.66.94.43 has already visited the server! Not initializing time and other variables!
+[15:48:26] @ 213.66.94.43 -> e0ec6 -> visited index
+[15:48:36] @ 213.66.94.43 -> e0ec6 -> visited om oss
+[15:48:38] @ 213.66.94.43 -> e0ec6 -> Klickade på 'Om-Oss' efter 51088.157892227ms
+[15:48:38] @ 213.66.94.43 -> e0ec6 -> visited om oss
+[15:48:40] @ 213.66.94.43 -> e0ec6 -> visited index
+[15:48:42] @ 213.66.94.43 -> e0ec6 -> visited boka
+[15:48:47] @ 213.66.94.43 -> e0ec6 -> Klickade på 'Boka' efter 60265.63501358ms
+[15:48:47] @ 213.66.94.43 -> e0ec6 -> visited boka
+[15:48:48] @ 213.66.94.43 -> e0ec6 -> visited index
+[15:48:51] @ 213.66.94.43 -> e0ec6 -> visited mat
+[15:48:52] @ 213.66.94.43 -> e0ec6 -> visited lunch
+[15:48:54] @ 213.66.94.43 -> e0ec6 -> Klickade på 'Lunchrätten' efter 66846.494913101ms
+[15:48:54] @ 213.66.94.43 -> e0ec6 -> Blev färdig efter 66886.614084244ms
+[15:49:00] @ 37.122.151.34 -> 65594 -> visited mat
+[15:49:02] @ 37.122.151.34 -> 65594 -> visited lunch
+[15:49:11] @ 37.122.151.34 -> 65594 -> Klickade på 'Lunchrätten' efter 190822.35407829ms
+[15:49:11] @ 37.122.151.34 -> 65594 -> visited lunch
+[15:49:13] @ 37.122.151.34 -> 65594 -> visited lunch
+[15:49:15] @ 37.122.151.34 -> 65594 -> visited index
+[15:49:16] @ 37.122.151.34 -> 65594 -> visited boka
+[15:49:18] @ 82.209.140.221 -> b2304 -> visited boka
+[15:49:19] @ 37.122.151.34 -> 65594 -> Klickade på 'Boka' efter 199083.09698105ms
+[15:49:19] @ 37.122.151.34 -> 65594 -> Blev färdig efter 199125.01811981ms
+[15:49:19] @ 82.209.140.221 -> b2304 -> visited index
+[15:49:20] @ 82.209.140.221 -> b2304 -> visited om oss
+[15:49:25] @ 82.209.140.221 -> b2304 -> visited index
+[15:50:15] @ 82.209.140.221 -> b2304 -> visited mat
+[15:50:16] @ 82.209.140.221 -> b2304 -> visited lunch
+[15:50:24] @ 82.209.140.221 -> b2304 -> visited index
+[15:50:25] @ 82.209.140.221 -> b2304 -> visited mat
+[16:31:21] @ 45.155.205.108 -> N/A -> visited index
