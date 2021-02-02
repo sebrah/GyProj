@@ -179,3 +179,73 @@
 [15:50:24] @ 82.209.140.221 -> b2304 -> visited index
 [15:50:25] @ 82.209.140.221 -> b2304 -> visited mat
 [16:31:21] @ 45.155.205.108 -> N/A -> visited index
+[00:47:56] @ 182.254.209.28 -> N/A -> visited index
+[16:09:13] Session with ip 188.149.135.58 got initialized and allocated the code 3efff
+[16:09:13] @ 188.149.135.58 -> 3efff -> visited index
+[16:09:41] @ 188.149.135.58 -> 3efff -> visited om oss
+[16:09:43] @ 188.149.135.58 -> 3efff -> Klickade på 'Om-Oss' efter 30444.294214249ms
+[16:09:43] @ 188.149.135.58 -> 3efff -> visited om oss
+[16:09:45] @ 188.149.135.58 -> 3efff -> visited index
+[16:09:47] @ 188.149.135.58 -> 3efff -> visited boka
+[16:09:51] @ 188.149.135.58 -> 3efff -> Klickade på 'Boka' efter 38089.79010582ms
+[16:09:51] @ 188.149.135.58 -> 3efff -> visited boka
+[16:09:52] @ 188.149.135.58 -> 3efff -> visited index
+[16:09:55] @ 188.149.135.58 -> 3efff -> visited mat
+[16:09:57] @ 188.149.135.58 -> 3efff -> visited lunch
+[16:10:10] @ 188.149.135.58 -> 3efff -> visited mat
+[16:10:11] @ 188.149.135.58 -> 3efff -> visited lunch
+[16:10:16] @ 188.149.135.58 -> 3efff -> visited mat
+[16:10:17] @ 188.149.135.58 -> 3efff -> visited lunch
+[16:10:21] @ 188.149.135.58 -> 3efff -> Klickade på 'Lunchrätten' efter 68252.115011215ms
+[16:10:21] @ 188.149.135.58 -> 3efff -> Blev färdig efter 68294.839143753ms
+[16:42:44] @ 45.155.205.108 -> N/A -> visited index
+[10:38:18] Session with ip 192.121.242.86 got initialized and allocated the code 9908b
+[10:38:18] Session with ip 35.195.243.150 got initialized and allocated the code 4942a
+[10:38:18] @ 192.121.242.86 -> 9908b -> visited index
+[10:38:18] @ 35.195.243.150 -> N/A -> visited index
+[10:38:18] @ 35.195.243.150 -> N/A -> visited index
+[10:38:18] @ 35.195.243.150 -> N/A -> visited index
+[10:38:18] @ 35.195.243.150 -> N/A -> visited index
+[10:38:18] @ 35.195.243.150 -> N/A -> visited index
+[10:38:19] @ 35.195.243.150 -> N/A -> visited index
+[10:38:19] @ 35.195.243.150 -> N/A -> visited index
+[10:38:19] @ 135.14.238.250 -> N/A -> visited index
+[10:38:30] @ 192.121.242.86 -> 9908b -> visited om oss
+[10:38:30] @ 35.195.243.150 -> N/A -> visited om oss
+[10:38:30] @ 35.195.243.150 -> N/A -> visited om oss
+[10:38:30] @ 35.195.243.150 -> N/A -> visited om oss
+[10:38:30] @ 35.195.243.150 -> N/A -> visited om oss
+[10:38:55] @ 192.121.242.86 -> 9908b -> visited index
+[10:38:55] @ 35.195.243.150 -> N/A -> visited index
+[10:38:56] @ 135.14.238.250 -> N/A -> visited index
+[10:39:28] @ 192.121.242.86 -> 9908b -> visited boka
+[10:39:28] @ 35.195.243.150 -> N/A -> visited boka
+[10:39:28] @ 35.195.243.150 -> N/A -> visited boka
+[10:39:55] @ 192.121.242.86 -> 9908b -> visited index
+[10:42:15] @ 192.121.242.86 -> 9908b -> visited boka
+[10:42:15] @ 35.195.243.150 -> N/A -> visited boka
+[10:42:15] @ 35.195.243.150 -> N/A -> visited boka
+[10:42:19] @ 192.121.242.86 -> 9908b -> visited index
+[10:42:27] @ 192.121.242.86 -> 9908b -> visited om oss
+[10:42:27] @ 35.195.243.150 -> N/A -> visited om oss
+[10:42:33] @ 192.121.242.86 -> 9908b -> visited index
+[10:42:37] @ 192.121.242.86 -> 9908b -> visited mat
+[10:42:37] @ 35.195.243.150 -> N/A -> visited mat
+[10:42:37] @ 35.195.243.150 -> N/A -> visited mat
+[10:42:41] @ 192.121.242.86 -> 9908b -> visited lunch
+[10:42:41] @ 35.195.243.150 -> N/A -> visited lunch
+[10:42:41] @ 35.195.243.150 -> N/A -> visited lunch
+[10:42:41] @ 35.195.243.150 -> N/A -> visited lunch
+[10:42:42] @ 135.14.238.250 -> N/A -> visited lunch
+[10:43:13] @ 192.121.242.86 -> 9908b -> visited index
+[10:43:13] @ 35.195.243.150 -> N/A -> visited lunch
+[10:43:13] @ 35.195.243.150 -> N/A -> visited lunch
+[10:43:24] @ 192.121.242.86 -> 9908b -> visited om oss
+[10:43:36] @ 192.121.242.86 -> 9908b -> visited index
+[10:43:40] @ 192.121.242.86 -> 9908b -> visited mat
+[10:43:41] @ 192.121.242.86 -> 9908b -> visited index
+[13:15:45] @ 45.155.205.108 -> N/A -> visited index
+[23:46:47] @ 49.234.26.99 -> N/A -> visited index
+[05:29:01] @ 45.155.205.108 -> N/A -> visited index
+[01:51:44] @ 45.155.205.108 -> N/A -> visited index
+[11:57:13] @ 81.68.114.48 -> N/A -> visited index
