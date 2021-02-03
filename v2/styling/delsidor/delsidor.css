@@ -1,0 +1,150 @@
+html {
+    height: 100%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body {
+    display: block;
+    margin: 0;
+    height: 100%;
+}
+
+.header {
+    width: 100%;
+    height: 50px;
+    background-color: black;
+    color: white;
+    position: relative;
+}
+
+.header #title {
+    font-size: 24px;
+    position: absolute;
+    top: calc((100% - 29px) / 2);
+    left: 1%;
+    cursor: pointer;
+}
+
+
+
+.main {
+    min-height: calc(100% - 50px - 170px);
+    width: 100%;
+    background: rgb(250,243,207);
+    background: linear-gradient(0deg, rgba(250,243,207,0.8799894957983193) 0%, rgba(250,243,207,0.56) 100%);
+    position: relative;
+}
+
+.main-fix {
+    height: calc(100% - 220px)
+}
+
+.main .content {
+    position: relative;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 70%;
+    background-color: white;
+    height: 100%;
+    /*left: calc((100% - 70%) / 2);*/
+}
+
+.cont {
+    text-align: center;
+}
+
+.cont .cont-title {
+    font-size: 30px;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    color: #c59d40;
+    padding-top: 7vh;
+}
+
+.cont p {
+    padding-top: 20px;
+    width: 65%;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 20px;
+}
+
+
+
+/*
+*
+* Footer Element Code
+*
+*/
+
+.footer {
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 170px;
+    position: relative;
+}
+
+.footer .inf {
+    height: 125px;
+    background-color: black;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr;
+}
+
+.footer .inf > div {
+    width: 100%;
+    height: 100%;
+    color: white;
+    text-align: center;
+    justify-self: center;
+    align-self: center;
+}
+
+.footer .inf > div p {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.footer .inf > div p.ttl {
+    display: inline-block;
+    color: #ceb06c;
+    border-bottom: 1px solid #ceb06c;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+
+.footer .inf > div div.txt {
+    font-size: 13px;
+    display: block;
+}
+
+.footer .inf > div div.txt p {
+    user-select: text; /* supported by Chrome and Opera */
+    -webkit-user-select: text; /* Safari */
+    -khtml-user-select: text; /* Konqueror HTML */
+    -moz-user-select: text; /* Firefox */
+    -ms-user-select: text; /* Internet Explorer/Edge */
+    cursor: text;
+}
+
+.footer .inf > div div.txt p.tel {
+    margin-top: 0px;
+}
+
+.footer .inf > div div.txt p.epost {
+    margin-top: -8px;
+}
+
+.footer .inf > div:nth-child(1) { grid-column: 2 / 3; } .footer .inf > div:nth-child(2) { grid-column: 3 / 4; }
+
+.footer .decl {
+    height: 30px;
+    background-color: rgb(231, 231, 231);
+    position: relative;
+    text-align: center;
+    letter-spacing: 1px;
+    padding-top: 15px;
+}

@@ -1,0 +1,53 @@
+.p1 {
+    margin-top: 45px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.t1 {
+    text-transform: uppercase;
+    font-size: 20px;
+}
+
+.mat {
+    margin-top: 20px;
+}
+
+.dag, .pris {
+    font-weight: bold;
+}
+
+.pris {
+    font-size: 13px;
+}
+
+button, button:active {
+    position: relative;
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    justify-self: center;
+    align-self: center;
+    background-color: transparent;
+    outline: none;
+    cursor: pointer;
+    border: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+}
+
+#btn {
+    display: inline-block;
+    border: 1px solid black;
+    width: 200px;
+    border-radius: 3px;
+    cursor: pointer;
+    margin: 12px auto 0 auto;
+    font-size: 18px;
+}
+
+#btn:hover {
+    border-color: gray;
+}

@@ -1,0 +1,27 @@
+html {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.menus {
+    margin-top: 100px;
+}
+
+.menus div {
+    border: 1px solid black;
+    display: inline-block;
+    text-transform: uppercase;
+    text-align: center;
+    line-height: 150px;
+    width: 150px;
+    height: 150px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+#middag {
+    margin-left: 50px;
+}
+
+.menus div:hover {
+    border: 1px dotted black;
+}
